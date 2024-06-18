@@ -1,0 +1,186 @@
+@font-face {
+    font-family: MonaSans;
+    src: url("Assets/Fonts/Mona-Sans-RegularNarrow.ttf");
+}
+@font-face {
+    font-family: MonaSansBold;
+    src: url("Assets/Fonts/Mona-Sans-BoldNarrow.ttf");
+}
+@font-face {
+    font-family: MonaSansMedium;
+    src: url("Assets/Fonts/Mona-Sans-MediumNarrow.ttf");
+}
+
+.Main{
+    width: 500px;
+    height: 850px;
+    max-width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    position: relative;
+}
+
+.Starter > img{
+    width: 500px;
+    height: 800px;
+    border-radius: 36px 36px 28px 28px;
+    
+}
+
+.Starter{
+    width: 500px;
+    height: 900px;
+    max-width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+    /* display: flex; */
+    position: relative;
+}
+.Title1{
+    font-size: 80px;
+    font-family: MonaSans;
+    color: rgb(255, 255, 255);
+    position: absolute;
+    top: 20%;
+    left: 30%;
+    
+}
+.Title2{
+    font-size: 210px;
+    font-family: MonaSansBold;
+    color: rgb(255, 255, 255);
+    position: absolute;
+    top: 25%;
+    left: 80px;
+}
+.DiscoverBtn{
+    width: 284px;
+    height: 54px;
+    font-family: MonaSans;
+    color: rgb(255, 255, 255);
+    font-size: 40px;
+    background-color: #0166BA;
+    border:none;
+    border-radius: 35px;
+    position: absolute;
+    top: 48%;
+    left: 20%;
+}
+/* .Cities{
+    width: 500px;
+    height: 600px;
+    max-width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+}
+.FTehran{
+    width: 200px;
+    height: 200px;
+    color: white;
+    position: fixed;
+    left: 350px;
+    top: 10px;
+}
+
+div:hover{
+    font-size: 60px;
+}
+
+.FTehran > h1{
+    font-family: MonaSansBold;
+    font-size: 50px;
+    position: absolute;
+    top: 50%;
+    left: 2%;
+}
+
+.FTehran > img{
+    width: 200px;
+    height: 200px;
+    border-radius: 35px;
+}
+
+.FMashhad{
+    width: 200px;
+    height: 200px;
+    color: white;
+    position: absolute;
+    left: 27%;
+    top:113%;
+}
+
+.FMashhad > h1{
+    font-family: MonaSansBold;
+    font-size: 50px;
+    position: absolute;
+    top: 50%;
+    left: 7%;
+}
+
+.FMashhad > img{
+    width: 200px;
+    height: 200px;
+    border-radius: 35px;
+}
+
+
+.FIsfahan{
+    width: 200px;
+    height: 200px;
+    color: white;
+    position: absolute;
+    top: 89%;
+    left: 52%;
+}
+
+.FIsfahan > img{
+    width: 200px;
+    height: 200px;
+    border-radius: 35px;
+}
+
+.FIsfahan > h1{
+    font-family: MonaSansBold;
+    font-size: 50px;
+    position: absolute;
+    top: -5%;
+    left: 15%;
+}
+
+.FShiraz{
+    width: 200px;
+    height: 200px;
+    color: white;
+    position: absolute;
+    top:113%;
+    left: 52%;
+}
+
+.FShiraz > img{
+    widows: 200px;
+    height: 200px;
+    border-radius: 35px;
+}
+
+.FShiraz > h1{
+    font-family: MonaSansBold;
+    font-size: 50px;
+    position: absolute;
+    top: -15%;
+    left: 18%;
+}
+
+.MoreBtn{
+    width: 414px;
+    height: 54px;
+    border: none;
+    border-radius: 35px;
+    font-family: MonaSans;
+    font-size: 40px;
+    color: white;
+    background-color: #00A9F6;
+    position: absolute;
+    top: 136%;
+    left: 28%;
+} */
